@@ -1,22 +1,21 @@
 .paloSemaforo{
-    display:inline-flex;
+    display: inline-flex;
     width: 18px;
     height: 164px;
     background-color: black;
-    
-    margin-left: 54%;
-    margin-bottom: -6px;
+    margin-left: 79px;
+    margin-bottom: -12px;
     }
 
 .contornosemaforo {
     width: 150px;
     height: 340px;
     background-color: black;
-    margin-left: 45%;
+    margin-left: 10px;
     border-radius: 10px;
     padding-top: 17px;
-
-    }
+    margin-top: 5px;
+}
 
  .colorrojo {
     background: red;
